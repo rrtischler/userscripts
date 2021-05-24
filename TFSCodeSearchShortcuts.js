@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         TFSCodeSearchShortcuts
 // @include      */tfs/*
-// @version      1.0
+// @version      1.1
 // @description  Atalhos para usar no CodeSearch do TFS
 // @author       Rafael Tischler
 // @grant        none
@@ -20,7 +20,7 @@ document.addEventListener('keyup', onKeyUpTFS);
 
 var trunk = 'trunk';
 var integration = 'integration';
-var numeroSac = 'NumeroSAC:'
+var numeroSac = 'CodigoSAC:'
 var searchInputBox = () => document.querySelector("#searchbox");
 var searchInputMulti = () => document.querySelector("#multi-entity-search-box");
 function onKeyUpTFS(e){
