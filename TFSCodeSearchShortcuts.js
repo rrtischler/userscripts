@@ -5,6 +5,8 @@
 // @description  Atalhos para usar no CodeSearch do TFS
 // @author       Rafael Tischler
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/rrtischler/userscripts/main/TFSCodeSearchShortcuts.js
+// @downloadURL  https://raw.githubusercontent.com/rrtischler/userscripts/main/TFSCodeSearchShortcuts.js
 // ==/UserScript==
 
 // ATALHOS:
